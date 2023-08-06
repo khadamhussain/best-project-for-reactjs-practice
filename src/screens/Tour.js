@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Loading from '../components/tour/Loading';
 import Tours from '../components/tour/Tours';
-import '../css/Tour.css';
+// import '../css/Tour.css';
 
 const Tour = () => {
     const [loading, setLoading] = useState(true)

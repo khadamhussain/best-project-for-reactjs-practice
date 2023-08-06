@@ -1,6 +1,6 @@
 import React from 'react'
 import Reviews from '../components/review/Review';
-import '../css/Review.css';
+// import '../css/Review.css';
 const Review = () => {
     return (
         <main>

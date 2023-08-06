@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import '../css/Accordian.css';
+// import '../css/Accordian.css';
 import questionsData from '../data/accordianQuestion';
 import SingleQuestion from '../components/accordian/Question';
 const Accordian = () => {

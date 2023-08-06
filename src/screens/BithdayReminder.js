@@ -1,5 +1,5 @@
 import React,{useState} from 'react';
-import '../css/BithdayReminder.css';
+// import '../css/BithdayReminder.css';
 import data from '../data/BirthdayReminder';
 import List from '../components/birthdayReminder/List';
 const BithdayReminder = () => {
